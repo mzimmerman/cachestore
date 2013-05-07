@@ -23,7 +23,7 @@ import (
 	"appengine/memcache"
 	"encoding/gob"
 	"fmt"
-	"github.com/oschmid/appenginetesting"
+	"github.com/icub3d/appenginetesting"
 	"reflect"
 	"testing"
 )
